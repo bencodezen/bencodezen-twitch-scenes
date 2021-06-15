@@ -1,10 +1,5 @@
 <template>
-  <main>
-    <footer class="footer">
-      <img src="/img/bencodezen-circle.png" alt="" class="footer-logo" />
-      <p class="footer-title">Obsidian Office Hours — Session #3</p>
-    </footer>
-  </main>
+  <router-view />
 </template>
 
 <script setup></script>
@@ -14,6 +9,7 @@ html,
 body {
   padding: 0;
   margin: 0;
+  font-family: 'Rubik', sans-serif;
 }
 
 .footer {
@@ -35,6 +31,5 @@ body {
   color: #fff;
   font-weight: bold;
   font-size: 2rem;
-  font-family: 'Rubik', sans-serif;
 }
 </style>
