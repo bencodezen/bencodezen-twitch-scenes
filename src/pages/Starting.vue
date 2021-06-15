@@ -17,4 +17,8 @@ export default {}
   justify-content: center;
   color: #fff;
 }
+
+.starting h1 {
+  font-size: 3rem;
+}
 </style>
