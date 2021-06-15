@@ -26,10 +26,4 @@ body {
   max-width: 125px;
   padding: 0 1rem;
 }
-
-.footer-title {
-  color: #fff;
-  font-weight: bold;
-  font-size: 2rem;
-}
 </style>
