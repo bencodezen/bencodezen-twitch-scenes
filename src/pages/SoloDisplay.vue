@@ -7,8 +7,8 @@ export default {}
     <footer class="footer">
       <img src="/img/dragon-avatar.png" alt="" class="footer-logo" />
       <div class="footer-text-wrapper">
-        <p class="footer-text-title">Building with Ben (#4)</p>
-        <p class="footer-text-subtitle">Adding Nuxt Image to a Blog</p>
+        <p class="footer-text-title">Obsidian Office Hours (#4)</p>
+        <p class="footer-text-subtitle">Templater Conditionals and more...</p>
       </div>
     </footer>
   </main>
