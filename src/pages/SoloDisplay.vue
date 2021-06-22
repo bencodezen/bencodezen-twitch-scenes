@@ -7,8 +7,8 @@ export default {}
     <footer class="footer">
       <img src="/img/dragon-avatar.png" alt="" class="footer-logo" />
       <div class="footer-text-wrapper">
-        <p class="footer-text-title">Obsidian Office Hours (#4)</p>
-        <p class="footer-text-subtitle">Templater Conditionals and more...</p>
+        <p class="footer-text-title">Build with Ben (#5)</p>
+        <p class="footer-text-subtitle">Obsidian Kanban Plugin with Vue</p>
       </div>
     </footer>
   </main>
