@@ -7,9 +7,9 @@ export default {}
     <footer class="footer">
       <img src="/img/dragon-avatar.png" alt="" class="footer-logo" />
       <div class="footer-text-wrapper">
-        <p class="footer-text-title">Build with Ben (#6)</p>
+        <p class="footer-text-title">Build with Ben (#7)</p>
         <p class="footer-text-subtitle">
-          Vue 3, Vite and Obsidian Plugins with Live Q&A
+          Mounting a Vue App to the Obsidian Leaf
         </p>
       </div>
     </footer>
