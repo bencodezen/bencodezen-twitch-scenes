@@ -8,7 +8,7 @@ export default {}
       <img src="/img/bencodezen-circle.png" alt="" class="footer-logo" />
       <div class="footer-text-wrapper">
         <p class="footer-text-title">Obsidian Office Hours (#7)</p>
-        <p class="footer-text-subtitle">Scripting with Obsidian + Live Q&A</p>
+        <p class="footer-text-subtitle">Task Management + Live Q&A</p>
       </div>
     </footer>
   </main>
