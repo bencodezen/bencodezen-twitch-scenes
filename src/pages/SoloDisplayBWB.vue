@@ -7,9 +7,9 @@ export default {}
     <footer class="footer">
       <img src="/img/dragon-avatar.png" alt="" class="footer-logo" />
       <div class="footer-text-wrapper">
-        <p class="footer-text-title">Build with Ben (#9)</p>
+        <p class="footer-text-title">Build with Ben (#10)</p>
         <p class="footer-text-subtitle">
-          Let's Explore Nuxt and Sanity!
+          Let's Build a Pokedex with Vue 3 and Serverless Functions!
         </p>
       </div>
     </footer>
