@@ -7,8 +7,8 @@ export default {}
     <footer class="footer">
       <img src="/img/dragon-avatar.png" alt="" class="footer-logo" />
       <div class="footer-text-wrapper">
-        <p class="footer-text-title">Build with Ben (#11)</p>
-        <p class="footer-text-subtitle">Nuxt Blog Starter Kit with Live Q&A!</p>
+        <p class="footer-text-title">Build with Ben (#12)</p>
+        <p class="footer-text-subtitle">Vue 3.2 with Live Q&A!</p>
       </div>
     </footer>
   </main>
