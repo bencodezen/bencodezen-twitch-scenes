@@ -37,7 +37,7 @@ export default {}
 
 .footer {
   width: 100%;
-  height: 70px;
+  height: 140px;
   position: absolute;
   bottom: 0;
   background-color: rgb(6, 6, 96);
