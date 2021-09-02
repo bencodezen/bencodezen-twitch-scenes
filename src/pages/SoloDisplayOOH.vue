@@ -7,14 +7,14 @@ export default {}
     <footer class="footer">
       <img src="/img/bencodezen-circle.png" alt="" class="footer-logo" />
       <div class="footer-text-wrapper">
-        <p class="footer-text-title">Obsidian Office Hours (#13)</p>
-        <p class="footer-text-subtitle">Task Management in Obsidian Update</p>
+        <p class="footer-text-title">Obsidian Office Hours (#14)</p>
+        <p class="footer-text-subtitle">Managing Ukulele Notes + Live Q&A</p>
       </div>
     </footer>
   </main>
 </template>
 
-<style>
+<style scoped>
 .footer-text-wrapper {
   display: flex;
   flex-direction: column;
