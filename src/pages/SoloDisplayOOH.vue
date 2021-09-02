@@ -34,4 +34,19 @@ export default {}
   font-size: 1.2rem;
   margin-top: 10px;
 }
+
+.footer {
+  width: 100%;
+  height: 70px;
+  position: absolute;
+  bottom: 0;
+  background-color: rgb(6, 6, 96);
+  display: flex;
+  align-items: center;
+}
+
+.footer-logo {
+  max-width: 50px;
+  padding: 0 1rem;
+}
 </style>
