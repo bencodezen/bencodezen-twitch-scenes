@@ -25,13 +25,13 @@ export default {}
 .footer-text-title {
   color: #fff;
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 1.8rem;
   margin: 0;
 }
 
 .footer {
   width: 100%;
-  height: 120px;
+  height: 100px;
   position: absolute;
   bottom: 0;
   background-color: rgb(6, 6, 96);
@@ -40,7 +40,7 @@ export default {}
 }
 
 .footer-logo {
-  max-width: 100px;
+  max-width: 80px;
   padding: 0 1rem;
 }
 </style>
