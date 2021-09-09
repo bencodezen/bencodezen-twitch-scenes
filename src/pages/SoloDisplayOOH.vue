@@ -7,8 +7,10 @@ export default {}
     <footer class="footer">
       <img src="/img/bencodezen-circle.png" alt="" class="footer-logo" />
       <div class="footer-text-wrapper">
-        <p class="footer-text-title">Obsidian Office Hours (#14)</p>
-        <p class="footer-text-subtitle">Managing Ukulele Notes + Live Q&A</p>
+        <p class="footer-text-title">
+          Obsidian Office Hours: Obsidian Updates, Official Readwise Plugin and
+          more!
+        </p>
       </div>
     </footer>
   </main>
@@ -24,20 +26,13 @@ export default {}
 .footer-text-title {
   color: #fff;
   font-weight: bold;
-  font-size: 2rem;
-  margin-top: 15px;
-  margin-bottom: 0;
-}
-
-.footer-text-subtitle {
-  font-weight: 400;
-  font-size: 1.2rem;
-  margin-top: 10px;
+  font-size: 1.8rem;
+  margin: 0;
 }
 
 .footer {
   width: 100%;
-  height: 140px;
+  height: 100px;
   position: absolute;
   bottom: 0;
   background-color: rgb(6, 6, 96);
@@ -46,7 +41,7 @@ export default {}
 }
 
 .footer-logo {
-  max-width: 50px;
+  max-width: 80px;
   padding: 0 1rem;
 }
 </style>
