@@ -8,8 +8,8 @@ export default {}
       <img src="/img/bencodezen-circle.png" alt="" class="footer-logo" />
       <div class="footer-text-wrapper">
         <p class="footer-text-title">
-          Obsidian Office Hours: Obsidian Updates, Official Readwise Plugin and
-          more!
+          Obsidian Office Hours: Obsidian Updates, Custom Template Scripts, Base
+          Note, and More!
         </p>
       </div>
     </footer>
