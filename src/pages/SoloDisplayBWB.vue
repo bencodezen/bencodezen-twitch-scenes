@@ -8,7 +8,7 @@ export default {}
       <img src="/img/dragon-avatar.png" alt="" class="footer-logo" />
       <div class="footer-text-wrapper">
         <p class="footer-text-title">
-          Build with Ben: Nuxt 3 Beta + Supabase
+          Build with Ben: Nuxt 3 Beta Trello MVP Clone
         </p>
       </div>
     </footer>
