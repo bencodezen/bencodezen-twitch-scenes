@@ -8,7 +8,7 @@ export default {}
       <img src="/img/bencodezen-circle.png" alt="" class="footer-logo" />
       <div class="footer-text-wrapper">
         <p class="footer-text-title">
-          Obsidian Office Hours: Ecosystem Updates, CRM and Getting Started
+          Obsidian Office Hours: DataviewJS Deep Dive and Ecosystem Updates
         </p>
       </div>
     </footer>
