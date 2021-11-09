@@ -1,15 +1,30 @@
 <script>
-export default {}
+const BUILD_WITH_BEN = 'Build with Ben'
+const OBSIDIAN_OFFICE_HOURS = 'Obsidian Office Hours'
+
+export default {
+  data: () => ({
+    streamType: BUILD_WITH_BEN,
+    streamTopic: 'Adventures with Nuxt 3 and Supabase (Part 2)'
+  }),
+  computed: {
+    streamLogo() {
+      if (this.streamType === BUILD_WITH_BEN) {
+        return '/img/dragon-avatar.png'
+      } else {
+        return '/img/bencodezen-circle.png'
+      }
+    }
+  }
+}
 </script>
 
 <template>
   <main>
     <footer class="footer">
-      <img src="/img/bencodezen-circle.png" alt="" class="footer-logo" />
+      <img :src="streamLogo" alt="" class="footer-logo" />
       <div class="footer-text-wrapper">
-        <p class="footer-text-title">
-          Obsidian Office Hours: DataviewJS Deep Dive and Ecosystem Updates
-        </p>
+        <p class="footer-text-title">{{ streamType }}: {{ streamTopic }}</p>
       </div>
     </footer>
   </main>

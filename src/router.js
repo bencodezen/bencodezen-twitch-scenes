@@ -1,12 +1,10 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Starting from './pages/Starting.vue'
-import SoloDisplayBWB from './pages/SoloDisplayBWB.vue'
-import SoloDisplayOOH from './pages/SoloDisplayOOH.vue'
+import LiveScreen from './pages/LiveScreen.vue'
 
 const routes = [
   { path: '/starting', component: Starting },
-  { path: '/solo-display-bwb', component: SoloDisplayBWB },
-  { path: '/solo-display-ooh', component: SoloDisplayOOH }
+  { path: '/live-screen', component: LiveScreen }
 ]
 
 const router = createRouter({
