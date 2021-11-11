@@ -4,8 +4,8 @@ const OBSIDIAN_OFFICE_HOURS = 'Obsidian Office Hours'
 
 export default {
   data: () => ({
-    streamType: BUILD_WITH_BEN,
-    streamTopic: 'Adventures with Nuxt 3 and Supabase (Part 2)'
+    streamType: OBSIDIAN_OFFICE_HOURS,
+    streamTopic: '0.13.0, Plugin Exploration and more'
   }),
   computed: {
     streamLogo() {
