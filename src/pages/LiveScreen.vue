@@ -4,8 +4,8 @@ const OBSIDIAN_OFFICE_HOURS = 'Obsidian Office Hours'
 
 export default {
   data: () => ({
-    streamType: BUILD_WITH_BEN,
-    streamTopic: 'Create a Resource Page with Nuxt and Notion'
+    streamType: OBSIDIAN_OFFICE_HOURS,
+    streamTopic: 'Adventures with Obsidian Buttons Plugin'
   }),
   computed: {
     streamLogo() {
